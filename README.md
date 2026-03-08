@@ -80,6 +80,9 @@ Each Excel file contains 3 columns:
 
 ## ⚙️ Pipeline
 
+![Data Curation Pipeline](pipeline.png)
+
+
 ```
 NCBI Nucleotide DB
        │
